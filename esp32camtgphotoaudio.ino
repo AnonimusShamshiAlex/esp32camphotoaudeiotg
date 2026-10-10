@@ -7,8 +7,8 @@
 // ════════════════════════════════════════════
 const char* WIFI_SSID  = "ESP_Test1729";
 const char* WIFI_PASS  = "1234567890";
-const char* BOT_TOKEN  = "8984126915:AAGtcZLHU3ID2kjhSCTMLsmVizxtDg4xXio";
-const char* CHAT_ID    = "8973499133";
+const char* BOT_TOKEN  = "YOU_Token_bot";
+const char* CHAT_ID    = "YOU_TG_ID";
 // ════════════════════════════════════════════
 
 const unsigned long PHOTO_INTERVAL = 5000;   // как часто слать фото (мс)
